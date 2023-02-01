@@ -1,0 +1,56 @@
+* {margin: 0; padding: 0; list-style: none; text-decoration: none;}
+
+header {
+   width: 1000px;
+   height: 100px;
+   position: relative;
+}
+
+.top {
+   width: 1000px;
+   height: 100px;
+   position: absolute;
+
+}
+
+.logo {
+   height: 40px;
+   width: 250px;
+}
+
+.logo img {
+   float: left;
+   height: 40px; 
+   width: 200px; 
+   margin: 20px 0 0 20px;
+   
+}
+
+.menu {
+   float: right;
+   position: absolute;
+   right: 0;
+   top: 60px;
+
+}
+
+.nav {
+   display: flex;
+}
+.nav>li {
+   display: flex;
+
+}
+.nav>li>a {} 
+.nav>li>a:hover {}
+
+.submenu { }
+.submenu>li { }
+.submenu>li>a { }
+.submenu>li>a:hover {}
+
+
+div {}
+
+footer {}
+
